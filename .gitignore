@@ -18,3 +18,5 @@ package-lock.json
 .claude
 .specify
 specs
+# power-job 独立仓库（remote: codeup ip2fw/powerjob）
+power-job/
